@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "693825751045",
+    "project_id": "chatapp-a1187",
+    "storage_bucket": "chatapp-a1187.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693825751045:android:d18fdae14bf8a2c253b46c",
+        "android_client_info": {
+          "package_name": "com.senkuldev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693825751045-4g56t9n4i3bee5dq08m74798f3q9k2ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.senkuldev.chatapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "693825751045-3cjegc2f72tc43oti64kc56la81dif1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOpkxufqGueE_5ZCZAVDXZC6L02AWe1E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693825751045-3cjegc2f72tc43oti64kc56la81dif1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "693825751045-kjlg0veuv3obdpblg8p5fufs5jh55a9n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.senkuldev.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

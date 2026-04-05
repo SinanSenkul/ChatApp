@@ -1,4 +1,4 @@
-package com.chatapp
+package com.senkuldev.chatapp
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
