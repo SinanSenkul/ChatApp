@@ -18,11 +18,14 @@
       android:launchMode="singleTask"
       android:windowSoftInputMode="adjustResize"
       android:exported="true"
-      android:theme="@style/BootTheme">
+      android:theme="@style/AppTheme">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <meta-data
+      android:name="com.google.android.geo.API_KEY"
+      android:value="AIzaSyAoMi5OUhjQK7bXKuXurm2AQd7vIsyUx8E" />
   </application>
 </manifest>
